@@ -1,0 +1,6 @@
+C:\Users\crime\source\repos\Calculadora_Reguladora\DAL\bin\Debug\DAL.dll
+C:\Users\crime\source\repos\Calculadora_Reguladora\DAL\bin\Debug\DAL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\crime\source\repos\Calculadora_Reguladora\DAL\obj\Debug\DAL.dll
+C:\Users\crime\source\repos\Calculadora_Reguladora\DAL\obj\Debug\DAL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

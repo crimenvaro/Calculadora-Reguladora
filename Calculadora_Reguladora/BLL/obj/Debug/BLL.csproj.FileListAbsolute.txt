@@ -1,0 +1,9 @@
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\bin\Debug\BLL.dll
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\bin\Debug\BLL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\bin\Debug\DAL.dll
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\bin\Debug\DAL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\obj\Debug\BLL.dll
+C:\Users\crime\source\repos\Calculadora_Reguladora\BLL\obj\Debug\BLL.pdb

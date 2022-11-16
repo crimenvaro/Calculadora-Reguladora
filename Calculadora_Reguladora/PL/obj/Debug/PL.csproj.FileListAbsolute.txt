@@ -1,0 +1,15 @@
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\bin\Debug\PL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\bin\Debug\BLL.dll
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\bin\Debug\DAL.dll
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\bin\Debug\BLL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\bin\Debug\DAL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.Frm_Calculadora.resources
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.csproj.GenerateResource.cache
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.pdb
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\bin\Debug\PL.exe
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.exe
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.Frm_Menu.resources
+C:\Users\crime\source\repos\Calculadora_Reguladora\PL\obj\Debug\PL.Frm_Reguladora.resources
